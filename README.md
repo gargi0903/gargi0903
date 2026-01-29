@@ -1,33 +1,23 @@
-Hi there, I’m Gargi Mathur 👋
+# 👋 Hi, I'm Gargi Mathur
 
-🐍 Python Developer
-💻 Passionate about building clean, efficient, and scalable solutions
-📚 Always learning and exploring new technologies
+🐍 **Python Developer**  
+💻 Passionate about building clean, efficient, and scalable software  
+📚 Constantly learning and improving my skills
 
-🚀 About Me
+## 🚀 About Me
+- Python developer with a focus on writing readable and maintainable code
+- Interested in backend development, automation, and problem-solving
+- Enjoy working on projects that improve efficiency and performance
+- Open to collaboration and learning opportunities
 
-I work primarily with Python
+## 🛠 Tech Stack
+- **Language:** Python
+- **Tools:** Git, GitHub
+- **Areas of Interest:** Backend Development, Automation, Scripting
 
-Interested in backend development, automation, and problem-solving
+## 🌱 Currently Learning
+- Advanced Python concepts
+- Software design principles and best practices
 
-I enjoy writing readable code and improving performance
-
-Open to collaborating on interesting projects
-
-🛠️ Tech Stack
-
-Languages: Python
-
-Tools & Technologies: Git, GitHub
-
-Interests: Backend development, scripting, automation
-
-🌱 Currently Learning
-
-Advanced Python concepts
-
-Improving software design and best practices
-
-📫 Connect With Me
-
-GitHub: @gargimathur
+## 📫 Connect With Me
+- GitHub: [gargimathur](https://github.com/gargimathur)
