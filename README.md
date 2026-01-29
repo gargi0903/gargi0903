@@ -1,16 +1,33 @@
-## Hi there 👋
+Hi there, I’m Gargi Mathur 👋
 
-<!--
-**gargi0903/gargi0903** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🐍 Python Developer
+💻 Passionate about building clean, efficient, and scalable solutions
+📚 Always learning and exploring new technologies
 
-Here are some ideas to get you started:
+🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I work primarily with Python
+
+Interested in backend development, automation, and problem-solving
+
+I enjoy writing readable code and improving performance
+
+Open to collaborating on interesting projects
+
+🛠️ Tech Stack
+
+Languages: Python
+
+Tools & Technologies: Git, GitHub
+
+Interests: Backend development, scripting, automation
+
+🌱 Currently Learning
+
+Advanced Python concepts
+
+Improving software design and best practices
+
+📫 Connect With Me
+
+GitHub: @gargimathur
